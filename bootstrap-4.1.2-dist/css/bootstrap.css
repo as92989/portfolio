@@ -3919,7 +3919,7 @@ input[type="button"].btn-block {
 .nav-tabs .nav-link.active,
 .nav-tabs .nav-item.show .nav-link {
   color: #094518;
-  background-color: #094518;
+  background-color: ##6A5F5F  ;
   border-color: #dee2e6 #dee2e6 #fff;
 }
 
